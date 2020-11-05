@@ -1,0 +1,60 @@
+.center{
+	margin:auto;
+}
+.menu{
+	width: 983px;
+	height: 39px;
+}
+.titulo{
+	font-family:tahoma;
+    font-size:80px;
+    text-shadow: 2px 2px #7c7c7c;
+    text-align:center; 
+    blur:50px;
+}
+.img{
+	width: 800px;
+	height: 1000px;
+}
+.vid{
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+    font-family:tahoma;
+    text-align:center;
+}
+#contenedor{
+	width: 1000px;
+	background-color: white;
+}
+div.menu{
+	float: left;
+	width: 11%;
+	background-color: white;
+	text-align:center; 
+}
+.borpees{
+	width: 250px;
+	height: 250px;
+}
+.borpees{
+	width: 250px;
+	height: 200px;
+}
+nav{
+	width: 1000px;
+	height: 45px;
+	text-align: center;
+}
+header{
+	width: 1000px;
+	height: 80px;
+}
+h2{
+    font-family:tahoma;
+    font-size:20px;
+    color:black;
+    text-align:center;
+    width:250px;
+}
